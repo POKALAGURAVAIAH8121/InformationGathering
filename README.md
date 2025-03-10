@@ -26,7 +26,8 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 
 http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 ## OUTPUT:
-![238300689-505c1008-6602-4c30-a18f-a19831193609](https://github.com/Rohithravi333/InformationGathering/assets/119394126/65a81eda-1543-4761-bf5a-b1e22783d89b)
+![image](https://github.com/user-attachments/assets/04cccd57-0923-418f-85e5-f3e9fd8bb2d5)
+
 ## Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
 
@@ -34,14 +35,16 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ping saveetha.ac.in
 ```
 ## Output:
-![238300810-18c141eb-f997-4e6a-970b-1278bf0f085f](https://github.com/Rohithravi333/InformationGathering/assets/119394126/f3a3f77c-2e80-4b1a-9f4d-ae99e42a5e5e)
+![Screenshot 2025-03-10 113255](https://github.com/user-attachments/assets/f2140cdd-ae48-4c9e-96c0-b582a6e3fa24)
+
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
 ## Output:
-![238302790-ad2a8edd-7197-44ae-9f54-94375c7114a9](https://github.com/Rohithravi333/InformationGathering/assets/119394126/b3ed46a4-61fb-4086-baed-fc10cbcf57ad)
+![image](https://github.com/user-attachments/assets/42bffaf7-a854-41fe-8b0f-0a9e6d51384b)
+
 ## History of the website:
 ## Output:
-![238300893-192a1d85-246e-45ad-bcd0-0a70e209c601](https://github.com/Rohithravi333/InformationGathering/assets/119394126/9a7580f3-84d2-4150-a07a-7dd12cfb77f2)
+![image](https://github.com/user-attachments/assets/1897022a-c8d2-4d7f-99c3-8fb4846d2d51)
 ## Webserver Fingerprinting:
 ## Netcat:
 ```
